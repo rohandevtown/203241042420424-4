@@ -41,9 +41,12 @@ GET: Get all issued books with fine
     >> Standard (6 months)
     >> Premium (12 months)
 
-
-
 ## Cmds:
+
     >> npm init
     >> npm i express
     >> npm i nodemon --save-dev
+
+
+
+    mongodb+srv://rohankinnal:38rxZBboNpueU3QL@cluster0.spedixn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
